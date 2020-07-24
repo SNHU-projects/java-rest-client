@@ -1,0 +1,11 @@
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthConfiguration.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/HealthCheckController.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/healthcheck/AppHealthCheck.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/representations/GameUserInfo.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthorizer.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/dao/GameUserDB.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/controller/GameUserRESTController.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameAuthenticator.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/controller/RESTClientController.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/GameAuthApplication.java
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-230/mod_4/FIXME/gameauth/src/main/java/com/gamingroom/gameauth/auth/GameUser.java
