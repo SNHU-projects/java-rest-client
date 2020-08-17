@@ -1,6 +1,9 @@
 # java-rest-client
 This project is a simple REST client application using the Dropwizard framework.
 
+Find The Gaming Room Design Document [here](CS-230-Project-Software-Design-Document.docx).
+
+
 ## Assignment 8-2 
 
 ### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
