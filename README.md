@@ -19,7 +19,7 @@ The design document required that I work through each aspect of the application 
 
 I would like to revise the Recommendations. With additinal feedback and research, there are changes I would like to make regarding security for the application.
 
-###How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
 Seeing as how addressing the users' needs was my chief assignment on this project, I found it very important to make sure they were met. I interpreted them based on my application development knowledge and sought out additional answers to solve the problems they were seeking answers for.
 
