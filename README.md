@@ -6,8 +6,19 @@ Find The Gaming Room Design Document [here](CS-230-Project-Software-Design-Docum
 ## How to start the GameAuth application
 
 1. Run `mvn clean install` to build your application
-1. Start application with `java -jar target/gameauth-0.0.1-SNAPSHOT.jar server config.yml`
-1. To check that your application is running enter url `http://localhost:8080`
+2. Start application with `java -jar target/gameauth-0.0.1-SNAPSHOT.jar server config.yml`
+3. To check that your application is running enter url `http://localhost:8080`
+
+### User roles
+
+Usernames:
+
+- Guest
+- User
+- Player
+- Admin
+
+Password: password
 
 ## Health Check
 
